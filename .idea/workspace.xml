@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b400840-e0bf-4a75-8f0a-3924330c605e" name="Default" comment="actually I have no idea what to do">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mengSyudy/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mengSyudy/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mengSyudy/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mengSyudy/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mengSyudy/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mengSyudy/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mengSyudy/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mengSyudy/mengSyudy.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mengSyudy/src/Main.java" />
+    <list default="true" id="8b400840-e0bf-4a75-8f0a-3924330c605e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mengSyudy/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../mengSyudy/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../mengSyudy/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,8 +50,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1152" />
-    <option name="y" value="243" />
+    <option name="x" value="1005" />
+    <option name="y" value="178" />
     <option name="width" value="1171" />
     <option name="height" value="1000" />
   </component>
@@ -90,6 +82,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../mengSyudy" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,6 +132,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8b400840-e0bf-4a75-8f0a-3924330c605e" name="Default" comment="" />
@@ -146,15 +142,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511441048925</updated>
-      <workItem from="1511441055408" duration="311000" />
+      <workItem from="1511441055408" duration="1753000" />
     </task>
+    <task id="LOCAL-00001" summary="actually I have no idea what to do&#10;    测试上传项目">
+      <created>1511441430590</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511441430590</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="311000" />
+    <option name="totallyTimeSpent" value="1753000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1152" y="243" width="1171" height="1000" extended-state="0" />
+    <frame x="1005" y="178" width="1171" height="1000" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2956327" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -168,7 +172,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3638418" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.57229435" sideWeight="0.49415693" order="0" side_tool="false" content_ui="combo" x="50" y="540" width="398" height="860" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.57229435" sideWeight="0.49415693" order="0" side_tool="false" content_ui="combo" x="50" y="540" width="398" height="860" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293687" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29002744" sideWeight="0.49574727" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.015553523" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -199,6 +203,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="actually I have no idea what to do&#10;    测试上传项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="actually I have no idea what to do&#10;    测试上传项目" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
